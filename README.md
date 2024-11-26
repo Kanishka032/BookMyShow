@@ -33,14 +33,14 @@ This is a clone of the popular event and movie ticket booking platform **BookMyS
 - **Google Fonts**: For modern, responsive typography.
 
 File Structure
-bash
-Copy code
 /bookmyshow-clone
 ├── index.html           # Main HTML file
 ├── /images              # Folder containing all image assets
 ├── /css
 │   └── bookMyshow.css   # Custom styles for the website
 └── README.md            # Project description and documentation
+
+
 
 
 Here’s the README with the sections formatted using # for headers:
