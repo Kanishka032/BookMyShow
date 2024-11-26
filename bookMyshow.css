@@ -1,0 +1,621 @@
+.nav1{
+    display: flex;
+    margin-top: -1%;
+    border-bottom: 0.5px solid #F5F5F5;
+}
+.nav1 img{
+    width: 150px;
+    height: 64px;
+    margin-top: 1%;
+     border: solid white;
+}
+.nav1 div{
+    width: 57%;
+    margin-top: 1%;
+}
+.nav1 div input {
+    width: 80%;
+    height: 60%;
+    margin-top: 2%;
+    margin-left: 1%;
+    border: 0.5px solid #F5F5F5;
+    border-radius: 5px;
+}
+.nav1 div i{
+    position: absolute;
+    margin-left: -44%;
+    margin-top: 2%;
+}
+.nav1 label{
+    font-size: -12px;
+    font-weight: 400;
+    position: relative;
+    color: rgb(26, 26, 26);
+    padding-right: 15px;
+    line-height: 19px;
+    margin-top: 3%;
+    margin-left: 7%;
+    
+
+}
+.nav1  .button{
+    width: 77px;
+    height: 36px;
+    margin-top: 2%;
+    margin-left: 2%;
+    border-radius: 10px;
+    border: 0.5px solid #F84464;
+    background-color: #F84464;
+    color: white;
+}
+.nav1 .fa-bars{
+    margin-left: 32px;
+    margin-top: 29px;
+    font-size: 22px;
+}
+.nav2{
+    display: flex;
+    background-color: #F5F5F5;
+    padding: 1%;
+    display: grid;
+    grid-template-columns: 600px 600px
+}
+.nav2 .nav2-1 label{
+    margin-left: 19px;
+    font-size: 15px;
+}
+.nav2 .nav2-2 label{
+    margin-left: 9px;
+    font-size: 15px;
+}
+.nav2 .nav2-2{
+    margin-left: 46%;
+}
+.mainimage{
+    display: flex;
+    justify-content: center;
+    background-color: #EBEBEB;
+}
+img[alt="image1"]
+{
+    margin-top: 1%;
+    width: 97%;
+    border-radius: 18px;
+    padding-bottom: 1%;
+}
+.RecomendMovies{
+    display: flex;
+    /* background-color: #F5F5F5; */
+}
+
+.RecomendMovies div{
+    display: flex;
+    margin-top: -2%;
+    margin-left: 1%;
+}
+
+.RecomendMovies div h1{
+    position: absolute;
+    word-break: break-word;
+    color: rgb(51, 51, 51);
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.17;
+    margin-left: 27px;
+    margin-top: 46px;
+
+
+}
+.RecomendMovies div div{
+    margin-left: 2%;
+    margin-top: 7%;
+    /* padding: 1px; */
+}
+
+.RecomendMovies img{
+    width: 98%;
+    height: 100%;
+
+    border-radius: 10px;
+}
+.RecomendMovies div div .RecomendMovies-p{
+    position: absolute;
+    margin: 371px 7px 4px;
+    word-break: break-word;
+    color: rgb(34, 34, 34);
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.33;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.RecomendMovies div div .RecomendMovies-p2{
+    position: absolute;
+    margin: 398px 7px 4px;
+    word-break: break-word;
+    color: rgb(102, 102, 102);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.5;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.RecomendMovies label{
+    position: absolute;
+    margin: 47px 1145px;
+    /* word-break: break-word; */
+    color: rgb(220, 53, 88);
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.43;
+    white-space: nowrap;
+}
+img[alt="stream"]
+{
+    width: 90%;
+    padding: 5%;
+    margin-top: 7%;
+}
+.events{
+    display: flex;
+    /* flex-wrap: nowrap; */
+}
+.events div {
+    display: flex;
+    margin-top: 0%;
+    margin-left: 2%;
+    /* padding: 5px; */
+    margin-right: 1%;
+}
+.events div h1{
+    position: absolute;
+    position: absolute;
+    word-break: break-word;
+    color: rgb(51, 51, 51);
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.17;
+    margin-left: 17px;
+    margin-top: -31px;
+
+
+
+}
+.events img{
+    border-radius: 19px;
+    opacity: 1;
+    transition: 0.5s;
+    width: 100%;
+    min-height: inherit;
+    max-height: 100%;
+    margin-top: 3%;
+}
+
+.premier{
+    display: flex;
+    background-color: #2B3149;
+    width: 1263px;
+    margin-left: -1%;
+    margin-right: 22%;
+}
+
+.premier div{
+    display: flex;
+    margin-top: 9%;
+    margin-left: 4%;
+}
+
+.premier div h1{
+    position: absolute;
+    word-break: break-word;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.17;
+    margin-left: 20px;
+    margin-top: -7px;
+    /* background-color: #2B3149; */
+
+
+}
+.premier p{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    margin-left: 1%;
+    margin-top: 2%;
+    font-family: Roboto;
+}
+.premier div div{
+    margin-left: 1%;
+    margin-top: 5%;
+    padding: 2px;
+    height: 410px;
+}
+
+.premier img{
+    width: 100%;
+    height: 85%;
+
+    border-radius: 10px;
+}
+img[alt="play"]
+{
+    position: absolute;
+    height: 100px;
+    margin-top: -8%;
+    margin-left: 1%;
+    width: 90%
+}
+
+.premier div div .premier-1{
+    position: absolute;
+    margin: 359px 7px 4px;
+    word-break: break-word;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.33;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    background-color: #2B3149;
+}
+.premier div div .premier-2{
+    position: absolute;
+    margin: 382px 7px 4px;
+    word-break: break-word;
+    color: rgb(207, 204, 204);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.5;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.RecomendMovies div div .RecomendMovies-p3{
+    position: absolute;
+    margin: 425px 7px 4px;
+    word-break: break-word;
+    color: rgb(102, 102, 102);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.5;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+#Trending {
+    width: 100%;
+}
+
+
+#Trending h1{
+    word-break: break-word;
+    color: rgb(51, 51, 51);
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.17;
+    margin-left: 5%;
+    margin-top: 9%;
+
+}
+
+#Trending #id1
+{
+    border: solid rgb(255, 255, 255);
+    width: 12%;
+    margin: -8px 58px 1px;
+    background-color: white;
+    padding: 1%;
+}
+#Trending #id2
+{
+    border: solid rgb(255, 255, 255);
+    width: 10%;
+    margin: -75px 269px 1px;;
+    background-color: white;
+    padding: 1%;
+}
+#Trending #id3
+{
+    border: solid rgb(255, 255, 255);
+    width: 8%;
+    margin: -75px 450px 1px;
+    background-color: white;
+    padding: 1%;
+}
+
+#Trending #id4
+{
+    border: solid rgb(255, 255, 255);
+    width: 25%;
+    margin: -77px 615px 1px;
+    background-color: white;
+    padding: 1%;
+}
+#Trending #id5
+{
+    border: solid rgb(255, 255, 255);
+    width: 13%;
+    margin: -77px 976px 1px;
+    background-color: white;
+    padding: 1%;
+}
+
+#Trending #id6
+{
+    border: solid rgb(255, 255, 255);
+    width: 17%;
+    margin: 26px 44px 1px;
+    background-color: white;
+    padding: 1%;
+}
+#Trending #id7
+{
+    border: solid rgb(255, 255, 255);
+    width: 11%;
+    margin: -77px 297px 1px;
+    background-color: white;
+    padding: 1%;
+}
+#Trending #id8
+{
+    border: solid rgb(255, 255, 255);
+    width: 10%;
+    margin: -72px 475px 1px;
+    background-color: white;
+    padding: 1%;
+
+}
+
+#Trending #id9
+{
+    border: solid rgb(255, 255, 255);
+    width: 15%;
+    margin: -75px 648px 1px;
+    background-color: white;
+    padding: 1%;
+
+}
+
+#Trending #id10
+{
+    border: solid rgb(255, 255, 255);
+    width: 8%;
+    margin: -71px 892px 1px;
+    background-color: white;
+    padding: 1%;
+
+}
+#Trending h3{
+    word-break: break-word;
+    /* color: rgb(51, 51, 51); */
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1.17;
+    margin-left: 5%;
+    margin-top: 3%;
+color: #F84464;
+}
+
+#Trending p{
+    margin: -16px 13px 2px;
+    white-space: nowrap;
+    color: rgb(102, 102, 102);
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.43;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    display: flex;
+    justify-self: start;
+}
+body{
+    background-color: #F5F5F5;
+
+}
+
+#main-container {
+    width: 101%;
+    display: flex
+;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    gap: 0px;
+    margin-left: -8px; 
+}
+
+#footer1 {
+    width: 100%; 
+    background-color: #313035;
+    color: white;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: left; 
+}
+
+#footer1 img {
+    margin-left: 1%;
+    margin-top: 11px;
+}
+
+.ft {
+    margin-top: -26px;
+    margin-left: 55px;
+    font-family: Roboto, sans-serif;
+}
+
+.ft2 {
+    margin-top: -35px;
+    margin-left: 189px;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+}
+
+#footer1 button {
+    font-family: Roboto, sans-serif;
+    transform: translate(1064px, -56px);
+    height: 40px;
+    width: 126px;
+    font-size: 16px;
+    color: white;
+    background-color: #EC5E71;
+    border: 0.5px solid #EC5E71;
+    border-radius: 0;
+    cursor: pointer;
+    margin-top: 10px; 
+}
+
+#customer-care {
+    width: 100%; 
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+    background-color: #404043;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#customer-care img {
+    width: 84px;
+    height: 68px;
+    transform: translate(111px, -7px);
+}
+
+#customer-care p {
+    color: #8e8e91;
+    white-space: nowrap;
+    transform: translate(-74px, 43px);
+}
+
+.MlBJi {
+    width: 100%;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: 0.1px;
+    background-color: #333338;
+    color: rgb(165, 165, 165);
+    text-transform: uppercase;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: left;
+    font-family: Roboto;
+    
+}.dVivmv {
+    width: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    gap: -13px;
+    padding: 9px 0;
+    background-color: #333338;
+    color: rgb(165, 165, 165);
+    gap: 0px;
+}
+
+.bwc__sc-1jgpgcm-4 {
+    text-decoration: none;
+    color: rgb(165, 165, 165);
+    font-size: 10px;
+    background-color: #333338;
+    padding: 5px 10px; 
+    border-radius: 3px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.bwc__sc-1jgpgcm-4:hover {
+    background-color: #444449;
+    color: #fff; 
+}
+.bwc__sc-1jgpgcm-4 {
+    white-space: nowrap;
+}
+
+.dVivmv a {
+    display: block; 
+    font-size: 12px;
+}
+
+
+.bwc__sc-1jgpgcm-3 a::after {
+    content: " | ";
+}
+.iaUPsu {
+    display: flex
+;
+    width: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 125px;
+    background-color: #333338;
+}
+.igiRIk {
+    flex: 1 1 0%;
+    height: 1px;
+    background: rgb(93, 93, 95);
+}
+.social{
+    background-color: #333338 ;
+    width: 100%;
+}
+#sociallink {
+    text-align: center; 
+    background-color: #333338 ;
+  }
+  #sociallink i {
+    display: inline-block;
+    margin: -1px 8px;
+    font-size: 20px;
+    margin-top: -53px;
+    padding: 7px;
+    background-color: #79797a;
+    border-radius: 50%;
+    color: rgb(165, 165, 165);
+
+
+  }
+
+  .eOLamZ {
+    padding: 30px;
+    font-size: 11px;
+    color: rgb(102, 102, 102);
+    text-align: center;
+}
+
+.meow{
+    background-color: #333338 ;   
+}
