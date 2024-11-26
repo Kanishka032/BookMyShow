@@ -1,4 +1,4 @@
-
+![image Alt](https://github.com/Kanishka032/BookMyShow/blob/681dc75f8f23f3f6b4c8ae8e5bd39f4a35b87cc9/image/Screenshot%202024-11-26%20165429.png)
 # BookMyShow Clone
 
 This is a clone of the popular event and movie ticket booking platform **BookMyShow**. The project aims to replicate the look and feel of the website, offering users a platform to explore various entertainment events like movies, live performances, sports, and more. This is a front-end project built using HTML, CSS, and external libraries, providing a user-friendly interface for browsing, booking, and managing entertainment events.
